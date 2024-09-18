@@ -1,20 +1,25 @@
+# Contexto
+
+He realizado este código siguiendo el tutorial que aparece en la página oficial de [Angular - First App](https://angular.dev/tutorials/first-app) que se apoya en esta serie de [videos](https://youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF&si=-rdxRhWg65xuMhUo)
+
+El commit inicial es el trabajo realizado en los primeros 6 videos.
+
 # Angular Homes App
+
 - Install Angular if you don't have it installed
 
   `npm install -g @angular/cli`
 
-- Clone this branch to your local machine
+- Get the code downloading as zip file
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+- Once the code has been downloaded and extracted files
 
-- Once the code has been downloaded
-
-  `cd homes-app`
+  `cd angular-homes-app`
 
 - Install the depencies
 
-  `npm install` 
+  `npm install`
 
-- Run the application 
+- Run the application
 
   `ng serve`
